@@ -1,0 +1,8 @@
+Student:
+    Name
+    Email
+    Password
+TextBooks:
+    Name
+    orthor
+    edition
